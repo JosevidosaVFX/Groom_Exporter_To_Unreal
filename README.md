@@ -42,7 +42,7 @@
 
 **How to view our groom in viewport?**
 
-1. Case 1(Single Frame):
+1. _Case 1(Single Frame):_
 
   - We drag our file (Groom) to the viewport and in Details>Translation (0,0,0)
   
@@ -52,7 +52,7 @@
 
   - Finally we need to replace the groom and bindings files in our target geometry>Groom.
 
-2. Case 2(Frame Range):
+2. _Case 2(Frame Range):_
 
   - We drag our file (Groom) to the viewport. 
 
