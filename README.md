@@ -40,6 +40,8 @@ How to view our groom in viewport?
 
 Case 1(Single Frame):
 
+  -We drag our file (Groom) to the viewport. 
+
 Case 2(Frame Range):
 
   -We drag our file (Groom) to the viewport. 
