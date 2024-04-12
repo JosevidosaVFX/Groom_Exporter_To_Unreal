@@ -14,7 +14,7 @@ In Houdini:
 
   It is disabled but allows you to set a random percentage of hair that will be removed.
 
-  - Rop Alembic:
+  - *Rop Alembic*:
 
   We can choose between current frame and frame range, choose where it is saved and we would only need to save to disk.
 
