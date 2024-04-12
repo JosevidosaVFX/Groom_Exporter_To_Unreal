@@ -23,11 +23,11 @@
   
 **In Unreal:**
 
-Edit>Plugings>Activate Alembic Groom Importer and Groom.
+1. Edit>Plugings>Activate Alembic Groom Importer and Groom.
 
-We create a folder for Groom and add the created file, this will open a tab named "Groom Import Options".
+2. We create a folder for Groom and add the created file, this will open a tab named "Groom Import Options".
 
-Change the following parameters:
+3. Change the following parameters:
 
 Rotation: 90,0,0
 
