@@ -6,11 +6,11 @@
   Inside the HairGen node, create the HDA (groomexporterabc) and connect it just below the OUTPUT called HAIRS.
   The HDA allows alembic export both as a single frame pose and the entire frange range in scene.
 
-  - Scale:
+  - *Scale* :
 
   By definition it is set to 100 which is the value that Unreal uses, if you need to use the Houdini scale, please set the scale to 1.
 
-  - Random Delete:
+  - *Random Delete* :
 
   It is disabled but allows you to set a random percentage of hair that will be removed.
 
@@ -40,9 +40,9 @@
 > [!NOTE]
 > In the case of having exported a single frame, it will result in a single file, in the case of having exported in frange range, it will return three files (Groom, GuidesCache and StrandsCache).
 
-How to view our groom in viewport?
+**How to view our groom in viewport?**
 
-Case 1(Single Frame):
+1. Case 1(Single Frame):
 
   -We drag our file (Groom) to the viewport and in Details>Translation (0,0,0)
   
@@ -52,7 +52,7 @@ Case 1(Single Frame):
 
   -Finally we need to replace the groom and bindings files in our target geometry>Groom.
 
-Case 2(Frame Range):
+2. Case 2(Frame Range):
 
   -We drag our file (Groom) to the viewport. 
 
