@@ -30,6 +30,8 @@ Change the following parameters:
 
 Rotation: 90,0,0
 
+Scale: 1,-1,1
+
 Groom Cache: Activate Import Groom Cache and Import Groom Asset. (Only for Frame Range Exports)
 
 Finally Import.
@@ -40,7 +42,13 @@ How to view our groom in viewport?
 
 Case 1(Single Frame):
 
-  -We drag our file (Groom) to the viewport. 
+  -We drag our file (Groom) to the viewport and in Details>Translation (0,0,0)
+  
+  -Double click on the imported file to set the Width
+
+  -Right click on the hair file>Create Bindings>Select where we want to attach it.
+
+  -Finally we need to replace the groom and bindings files in our target geometry>Groom.
 
 Case 2(Frame Range):
 
