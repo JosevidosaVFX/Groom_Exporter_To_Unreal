@@ -42,8 +42,8 @@ Case 1(Single Frame):
 
 Case 2(Frame Range):
 
-We drag our file (Groom) to the viewport. 
+  -We drag our file (Groom) to the viewport. 
 
-In the Details section of the file added to the Viewport, we find Groom cache, there we will add the file (StrandsCache). Finally, we need to create a Level Sequence.
+  -In the Details section of the file added to the Viewport, we find Groom cache, there we will add the file (StrandsCache). Finally, we need to create a Level Sequence.
 
-With the hair selected and in the Sequence tab, click +Track>Actor To Sequencer>Add. This will create a file just below, we need to click + and select GroomCache.
+  -With the hair selected and in the Sequence tab, click +Track>Actor To Sequencer>Add. This will create a file just below, we need to click + and select GroomCache.
