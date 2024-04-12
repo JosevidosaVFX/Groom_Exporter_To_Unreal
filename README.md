@@ -6,15 +6,15 @@ In Houdini:
   Inside the HairGen node, create the HDA (groomexporterabc) and connect it just below the OUTPUT called HAIRS.
   The HDA allows alembic export both as a single frame pose and the entire frange range in scene.
 
-  -Scale:
+  - Scale:
 
   By definition it is set to 100 which is the value that Unreal uses, if you need to use the Houdini scale, please set the scale to 1.
 
-  -Random Delete:
+  - Random Delete:
 
   It is disabled but allows you to set a random percentage of hair that will be removed.
 
-  -Rop Alembic:
+  - Rop Alembic:
 
   We can choose between current frame and frame range, choose where it is saved and we would only need to save to disk.
 
