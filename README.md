@@ -44,18 +44,18 @@
 
 1. Case 1(Single Frame):
 
-  -We drag our file (Groom) to the viewport and in Details>Translation (0,0,0)
+  - We drag our file (Groom) to the viewport and in Details>Translation (0,0,0)
   
-  -Double click on the imported file to set the Width
+  - Double click on the imported file to set the Width
 
-  -Right click on the hair file>Create Bindings>Select where we want to attach it.
+  - Right click on the hair file>Create Bindings>Select where we want to attach it.
 
-  -Finally we need to replace the groom and bindings files in our target geometry>Groom.
+  - Finally we need to replace the groom and bindings files in our target geometry>Groom.
 
 2. Case 2(Frame Range):
 
-  -We drag our file (Groom) to the viewport. 
+  - We drag our file (Groom) to the viewport. 
 
-  -In the Details section of the file added to the Viewport, we find Groom cache, there we will add the file (StrandsCache). Finally, we need to create a Level Sequence.
+  - In the Details section of the file added to the Viewport, we find Groom cache, there we will add the file (StrandsCache). Finally, we need to create a Level Sequence.
 
-  -With the hair selected and in the Sequence tab, click +Track>Actor To Sequencer>Add. This will create a file just below, we need to click + and select GroomCache.
+  - With the hair selected and in the Sequence tab, click +Track>Actor To Sequencer>Add. This will create a file just below, we need to click + and select GroomCache.
