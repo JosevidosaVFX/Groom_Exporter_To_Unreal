@@ -30,7 +30,7 @@ Change the following parameters:
 
 Rotation: 90,0,0
 
-Groom Cache: Activate Import Groom Cache and Import Groom Asset.
+Groom Cache: Activate Import Groom Cache and Import Groom Asset. (Only for Frame Range Exports)
 
 Finally Import.
 
