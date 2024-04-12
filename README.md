@@ -29,13 +29,13 @@
 
 3. Change the following parameters:
 
-  - Rotation: 90,0,0
+    - Rotation: 90,0,0
 
-    - Scale: 1,-1,1
+      - Scale: 1,-1,1
 
-      - Groom Cache: Activate Import Groom Cache and Import Groom Asset. (Only for Frame Range Exports)
+        - Groom Cache: Activate Import Groom Cache and Import Groom Asset. (Only for Frame Range Exports)
 
-        - Finally Import.
+          - Finally Import.
 
 In the case of having exported a single frame, it will result in a single file, in the case of having exported in frange range, it will return three files (Groom, GuidesCache and StrandsCache).
 
