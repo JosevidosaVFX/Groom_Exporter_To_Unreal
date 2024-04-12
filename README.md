@@ -36,8 +36,9 @@
         - Groom Cache: Activate Import Groom Cache and Import Groom Asset. (Only for Frame Range Exports)
 
           - Finally Import.
-
-In the case of having exported a single frame, it will result in a single file, in the case of having exported in frange range, it will return three files (Groom, GuidesCache and StrandsCache).
+           
+> [!NOTE]
+> In the case of having exported a single frame, it will result in a single file, in the case of having exported in frange range, it will return three files (Groom, GuidesCache and StrandsCache).
 
 How to view our groom in viewport?
 
