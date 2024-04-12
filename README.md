@@ -21,13 +21,19 @@ In Houdini:
   IMPORTANT NOTE: Both for a single frame and for several frames, do not save the file with $F4, since we only need a single file.
   
 In Unreal:
+
 Edit>Plugings>Activate Alembic Groom Importer and Groom.
 
 We create a folder for Groom and add the created file, this will open a tab named "Groom Import Options".
+
 Change the following parameters:
+
 Rotation: 90,0,0
+
 Groom Cache: Activate Import Groom Cache and Import Groom Asset.
+
 Finally Import.
+
 In the case of having exported a single frame, it will result in a single file, in the case of having exported in frange range, it will return three files (Groom, GuidesCache and StrandsCache).
 
 How to view our groom in viewport?
